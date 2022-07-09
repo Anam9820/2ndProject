@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+}
+form{
+    background-color: blanchedalmond;
+    margin: 50px 400px 50px 400px;
+    padding: 10px;
+    background-color: wheat;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+}
+.unit{
+    font-size: 17px;
+    text-align: left;
+}
+.edit{
+    font-size: 15px;
+    padding: 2px 300px 2px 0px;
+}
+.edit1{
+    font-size: 15px;
+    padding: 2px 300px 50px 0px;
+}
+.button{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 7px 300px 1px 200px;
+}
